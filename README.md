@@ -13,16 +13,16 @@ pip install -U sentence-transformers
 vicuna embeddings
 
 minilm v6 sentence transformer
-resp(https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+[resp](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 vector store
 
-chroma db(https://docs.trychroma.com/getting-started)
+[chroma db](https://docs.trychroma.com/getting-started)
 ``
 pip install chromadb
 ``
 
-streamlit(https://docs.streamlit.io/get-started/installation)
+[streamlit](https://docs.streamlit.io/get-started/installation)
 ``
 pip install streamlit
 ``
@@ -61,7 +61,7 @@ cosine similarity
 ## directory should contain
 db docs lamini-t4-738m pycache .venv license requirements.txt .gitignore
 
-llm(https://huggingface.co/MBZUAI/LaMini-T5-738M)
+[llm](https://huggingface.co/MBZUAI/LaMini-T5-738M)
 
 ## Get Started
 ``
