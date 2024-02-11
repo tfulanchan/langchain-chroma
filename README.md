@@ -1,5 +1,9 @@
 ## dependencies required
 
+``
+pip install -r requirements.txt
+``
+
 python accelerate
 
 ``
