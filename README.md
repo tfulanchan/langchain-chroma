@@ -1,11 +1,13 @@
 ## dependencies required
 
 python accelerate
+
 ``
 pip install accelerate
 ``
 
 sentence Transformers
+
 ``
 pip install -U sentence-transformers
 ``
@@ -18,16 +20,19 @@ minilm v6 sentence transformer
 vector store
 
 [chroma db](https://docs.trychroma.com/getting-started)
+
 ``
 pip install chromadb
 ``
 
 [streamlit](https://docs.streamlit.io/get-started/installation)
+
 ``
 pip install streamlit
 ``
 
 parquet python
+
 ``
 pip install parquet
 ``
@@ -64,6 +69,7 @@ db docs lamini-t4-738m pycache .venv license requirements.txt .gitignore
 [llm](https://huggingface.co/MBZUAI/LaMini-T5-738M)
 
 ## Get Started
+
 ``
 code .
 ``
